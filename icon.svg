@@ -1,8 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
-  <rect width="32" height="32" rx="7.5" fill="#0A0A0B"/>
-  <g fill="none" stroke="#F5F4F0" stroke-width="1.7">
-    <ellipse cx="16" cy="16" rx="9.6" ry="5.93" transform="rotate(90 16 16)"/>
-    <ellipse cx="16" cy="16" rx="9.6" ry="5.93" transform="rotate(30 16 16)"/>
-    <ellipse cx="16" cy="16" rx="9.6" ry="5.93" transform="rotate(150 16 16)" stroke="#A3A19C"/>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 805 805" width="64" height="64"><title>Tavio</title><path fill="#1A2940" d="M185 0H620A185 185 0 0 1 805 185V620A185 185 0 0 1 620 805H185A185 185 0 0 1 0 620V185A185 185 0 0 1 185 0Z"/><path fill="#FFFFFF" d="M174 179H451C405 190 365 232 353 287H174Z"/><path fill="#00EEFF" d="M475 179H660C647 242 605 287 540 287H377C389 232 429 190 475 179Z"/><path fill="#FFFFFF" d="M342 311H462V642H342Z"/></svg>
